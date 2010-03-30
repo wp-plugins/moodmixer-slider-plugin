@@ -12,7 +12,7 @@
 		<div class="tablenav">
 			<div class="actions">
 				<select name="action">
-					<option value="-1" selected="selected"> select Action</option>
+					<option value="-1" selected="selected">select Action</option>
 					<option value="remove">Löschen / delete</option>
 				</select>
 				<button id="doaction" type="submit" class="button button-secondary action">Ausführen/ execute</button>
