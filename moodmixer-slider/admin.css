@@ -1,0 +1,77 @@
+/**
+ * extended Recommend-a-Friend CSS
+ *
+ * @author Fabian Wolf (http://fwolf.info/
+ * @subpackage mxs
+ * @license Closed source
+ */
+
+
+	/*.mxs-tabnav li a {
+		display: block;
+		float: left;
+		padding: 10px;
+	}*/
+
+
+.mxs-tab-container {
+	clear: left;
+	float: left;
+	margin-top: 20px;
+}
+	.mxs-table {
+		table-layout: fixed;
+	}
+
+	.mxs-table .column-actions, .mxs-table .column-shortcode {
+		width: 10%;
+	}
+
+	.mxs-table .column-title {
+		width: 15%;
+	}
+
+	.mxs-table-field-action li {
+		display: inline;
+		margin: 10px 5px;
+	}
+
+	tr.mxs-row-state-unapproved, .mxs-tab-container input.form-field-error {
+		background-color: #fcc;
+	}
+
+	.mxs-tab-container fieldset {
+		margin-top: 20px;
+	}
+
+
+	.mxs-tab-container fieldset p {
+		margin-left: 10px;
+		clear: left;
+		vertical-align: baseline;
+	}
+
+	.mxs-tab-container fieldset p label {
+		float: left;
+		width: 250px;
+	}
+
+	.mxs-tab-container fieldset legend {
+		font-weight: 1.2em;
+		font-weight: bold;
+	}
+
+	.mxs-tab-container input.form-field-error {
+		border: 2px solid #e00;
+	}
+
+	.mxs-form-table td, .mxs-form-table th {
+		vertical-align: top;
+	}
+
+	.mxs-form-table td.help {
+		vertical-align: top;
+		color: #666;
+		width: 400px;
+	}
+
