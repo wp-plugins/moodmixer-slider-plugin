@@ -8,7 +8,7 @@ Requires at least: 2.8
 Tested up to: 2.9.2 
 Stable tag: trunk
 
-Add Moodmixer affiliate product sliders to your weblog article using shortcodes, widgets or a template function.
+Add Moodmixer affiliate product sliders(javascript/flash banners) to your weblog article using shortcodes, widgets or a template function.
 
 
 
