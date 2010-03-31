@@ -3,7 +3,7 @@
 
 Contributors: fwolf
 Donate link: http://fwolf.info/
-Tags: slider, javascript, ad rotator, german, earn money, flash, affiliate, widget, banner
+Tags: slider, javascript, ad rotator, earn money, flash, affiliate, widget, banner, plugin, sidebar, posts
 Requires at least: 2.8
 Tested up to: 2.9.2 
 Stable tag: trunk
