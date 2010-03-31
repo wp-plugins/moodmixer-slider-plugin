@@ -1,4 +1,4 @@
-=== Plugin Name - dynamic-slider-plugin ===
+===dynamic-slider-plugin ===
 
 
 Contributors: fwolf
