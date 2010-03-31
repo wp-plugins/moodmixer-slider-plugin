@@ -14,8 +14,10 @@ Add Moodmixer affiliate product sliders(javascript/flash banners) to your weblog
 
 == Description ==
 
-Add Moodmixer Slider affiliate product presentations to your weblog using shortcodes, widgets and even a template function. With Moodmixer product sliders you can earn money with your blog by advertising products directly that match your web site's context (ie. pet supplies on a pet site, wine in a wine blog, health products or fashion etc. Dynamic sliders produce a nonstop flow of products matching a keyword that you can set. 
+Add Moodmixer Slider affiliate product presentations (javascript/flash affiliate banners) to your weblog using shortcodes, widgets and even a template function. With Moodmixer product sliders you can earn money with your blog by advertising products directly that match your web site's context (ie. pet supplies on a pet site, wine in a wine blog, health products or fashion etc. Dynamic sliders produce a nonstop flow of products matching a keyword that you can set. 
 See examples at http://www.dynamic-slider.com
+
+By the way, this plugin can be used to add any kind of javascript/flash banner into your blog
 
  
 
