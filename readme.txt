@@ -42,7 +42,7 @@ or
 
 more formats coming soon ( i.e. pageflipping catalog 300x250 and leaderboard 728x90 )
 
-press the "buy now" button(doesn't cost you anything) and go through the configurator page to produce the code. Copy code to clipboard or into a text file for the meantime
+press the "get it" button(doesn't cost you anything) and go through the configurator page to produce the code. Copy code to clipboard or into a text file for the meantime
 
 
 
