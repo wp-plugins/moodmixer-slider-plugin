@@ -14,8 +14,10 @@ Add Moodmixer affiliate product sliders to your weblog article using shortcodes,
 
 == Description ==
 
-Add Moodmixer Slider affiliate product presentations to your weblog using shortcodes, widgets and even a template function. With Moodmixer product sliders you can earn money with your blog by advertising products directly that match your web site's context ( ie. pet supplies on a pet site, wine in a wine blog, health products or fashion etc. Dynamic sliders produce a nonstop flow of products matching a keyword that you can set. 
+Add Moodmixer Slider affiliate product presentations to your weblog using shortcodes, widgets and even a template function. With Moodmixer product sliders you can earn money with your blog by advertising products directly that match your web site's context (ie. pet supplies on a pet site, wine in a wine blog, health products or fashion etc. Dynamic sliders produce a nonstop flow of products matching a keyword that you can set. 
 See examples at http://www.dynamic-slider.com
+
+ 
 
 You have to become an affiliate of http://www.zanox.com to earn money
 
@@ -83,13 +85,13 @@ Is this plugin available in my language?
 
 =
 
-Currently only German language is supported, but English (and others) are pending.
+Currently only German/ Englisch language is supported
 
 
 
 = Any questions? =
 
-[Just ask us](EN: http://www.dynamic-slider.com/en/contact_us.php  or Deutsch:http://www.dynamic-slider.com/de/kontaktformular.php ) ;)
+[Just ask us](EN: http://www.dynamic-slider.com/en/contact_us.php  or Deutsch: http://www.dynamic-slider.com/de/kontaktformular.php ) ;)
 
 
 
