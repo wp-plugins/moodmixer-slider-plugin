@@ -53,7 +53,7 @@ This section describes how to install the plugin and get it working.
 
 = into article =
 
-1. Upload this directory to your plugins directory. make sure it is called 'moodmixer-slider'
+1. Upload the 'moodmixer-slider' directory to your plugins directory. make sure it is called 'moodmixer-slider'
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Add a new slider
 4. Insert it into your post or page using the following syntax: `[slider code="my-slider-code"]`
