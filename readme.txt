@@ -97,7 +97,10 @@ Currently only German/ Englisch language is supported
 
 [Just ask us](EN: http://www.dynamic-slider.com/en/contact_us.php  or Deutsch: http://www.dynamic-slider.com/de/kontaktformular.php ) ;)
 
+== Plugin page ==
 
+DE : http://www.dynamic-slider.com/de/Slider_in_Wordpress.php
+EN: http://www.dynamic-slider.com/en/Add_Slider_to_Wordpress.php
 
 == Screenshots ==
 
