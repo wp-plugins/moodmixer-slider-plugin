@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Moodmixer Slider Plugin
-Plugin URI: http://www.moodmixer.net/
+Plugin URI: http://www.dynamic-slider.com/
 Description: Add Moodmixer Sliders to your weblog using shortcodes, widgets and even a template function. Requires WP 2.8+ to work properly.
 Author: Fabian Wolf
 Version: 0.5.2
@@ -14,7 +14,7 @@ License: GNU GPL v2
  * @author Fabian Wolf (http://fwolf.info/)
  * @version 0.5.2
  * @package moodmixer
- * @link http://www.moodmixer.net/
+ * @link http://www.dynamic-slider.com/
  *
  */
 
