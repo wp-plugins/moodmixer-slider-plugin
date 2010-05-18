@@ -40,9 +40,13 @@ select slider:
 
 or
 
-1 product at a time Format: 160x125 http://apps.zanox.com/web/guest/home?productID=29774 
+1 product at a time Format: 160x125 or 120x240 http://apps.zanox.com/web/guest/home?productID=29774 
 
-more formats coming soon ( i.e. pageflipping catalog 300x250 and leaderboard 728x90 )
+or
+
+pageflipping catalog 300x250 or 400x260 looks like a miniature catalogue which flips pages automatically or if you click into the catalogue corners. available at: https://apps.zanox.com/web/guest/home?productID=61265 
+
+more formats coming soon ( i.e.  and leaderboard 728x90 )
 
 press the "get it" button(doesn't cost you anything) and go through the configurator page to produce the code. Copy code to clipboard or into a text file for the meantime
 
